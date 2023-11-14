@@ -43,7 +43,7 @@
 			"Type": "UncookedOnly",
 			"LoadingPhase": "Default"
 		}
-	]
+	],
 
 	"Modules": [
 		{
