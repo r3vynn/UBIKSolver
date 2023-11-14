@@ -13,7 +13,7 @@
 	"CanContainContent": false,
 	"IsBetaVersion": false,
 	"Installed": false,
-	{
+	
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.1",
@@ -44,7 +44,7 @@
 			"LoadingPhase": "Default"
 		}
 	]
-}
+
 	"Modules": [
 		{
 			"Name": "UBIKRuntime",
